@@ -1,0 +1,4 @@
+test_ratio: 0.3
+automl_max_evals: 10
+gcp_project_id: "project-1cd57971-9300-4662-b33"
+gcs_primary_folder: "vic-mlops/primary"
